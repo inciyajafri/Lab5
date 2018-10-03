@@ -5,7 +5,7 @@ body
 }
 
 table {
-  width: 60%;
+  width: 80%;
   height: 200px;
   border: 2px solid white;
   font-family: 'Audiowide';
@@ -15,7 +15,7 @@ table {
 
 h1 {
   font-family: 'Orbitron';
-  color :white;
+  color: white;
   font-size: 50px;
   text-align: center;
 }
@@ -29,13 +29,13 @@ h3 {
 }
 tr 
 {
-  border: 3px solid white;
+  border: 4px white;
 }
 th 
 {
-  border: 3px solid white;
+  border: 4px white;
 }
 td 
 {
-  border: 3px solid white;
+  border: 4px white;
 }
