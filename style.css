@@ -1,0 +1,31 @@
+body {
+  background-image: url('milkyway.jpg');
+  background-size: auto;
+  image-rendering: auto;
+  
+}
+
+table {
+  width: 60%;
+  height: 200px;
+  border: 2px solid white;
+  font-family: Audiowide;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1 {
+  font-family: 'Orbitron';
+  color :white;
+  font-weight:bold;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Orbitron';
+  color: white;
+  font-weight:bold;
+  text-align: center;
+  font-size: 50px;
+}
